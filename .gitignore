@@ -2,3 +2,5 @@
 *.Mid
 *.Wav
 *.MuProject
+
+.ipynb_checkpoints
