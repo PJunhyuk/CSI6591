@@ -4,3 +4,7 @@
 *.MuProject
 
 .ipynb_checkpoints
+
+HW5/movie
+*.mp3
+*.MuWave
